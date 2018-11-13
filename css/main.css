@@ -76,11 +76,6 @@ a:focus {
   outline: 3px solid #fff;
 }
 
-.skip-links {
-  position: absolute;
-  top: -5em;
-}
-
 @media only screen and (min-width: 60em) {
 
   .masthead-title {
